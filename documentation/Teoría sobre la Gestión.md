@@ -1,6 +1,6 @@
 # Teoría sobre la Gestión de Proyectos
 
-Lograr aplicar la metodología ágil LEAN en un proyecto de forma independiente puede ser un desafío gratificante. En mi experiencia, llevar a cabo un proyecto siguiendo los principios de LEAN me permitió maximizar la eficiencia y la calidad, a pesar de trabajar de manera individual. 
+Lograr aplicar la metodología ágil LEAN en un proyecto de forma independiente puede ser un desafío gratificante. En mi experiencia, llevar a cabo un proyecto siguiendo los principios de LEAN me permitió maximizar la eficiencia y la calidad, a pesar de trabajar de manera individual.
 
 <img align="right" src="../assets/LEAN-meth.png" style="margin:16px; max-width:40%">
 
