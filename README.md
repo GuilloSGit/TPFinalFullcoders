@@ -18,7 +18,7 @@ El proyecto consta de las siguientes funcionalidades principales:
 
 2. **Envío de Solicitud a GESOFT**: Una vez que se han recopilado los datos del negocio y la finalidad del software, el sistema envía esta información como una solicitud a GESOFT, la empresa encargada de administrar el flujo de trabajo a partir de la recepción de la solicitud.
 
-3. **Consulta de Base de Datos de Solicitudes**: El proyecto también incluye una extensión que permite consultar una base de datos de solicitudes previamente registradas. Esta base de datos almacena información como el nombre del solicitante, el estado del proyecto solicitado, el número de solicitud y la fecha de recepción de la solicitud.
+3. **Consulta de Base de Datos de Solicitudes**: El proyecto también incluye una extensión que permite consultar una base de datos de solicitudes previamente registradas. Esta base de datos almacena información como el nombre del solicitante, el estado del proyecto solicitado, el número de solicitud y otros detalles.
 
 ## Contenido del Repositorio
 
