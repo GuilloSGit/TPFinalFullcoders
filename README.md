@@ -38,7 +38,7 @@ En este repositorio GitHub, encontrarás la siguiente documentación y recursos 
 
 - **Pseudocódigo**: Se incluye un pseudocódigo que simula el sistema de solicitudes de software. Este pseudocódigo proporciona una visión detallada de cómo se procesan las solicitudes.
 
-- **Teoría sobre la Gestión de Proyectos**: Se presenta teoría relacionada con la gestión de proyectos, incluyendo las metodologías que se han aplicado en este proyecto introductorio. [Ver el archivo](./assets/Teoría%20sobre%20la%20Gestión.md)
+- **Teoría sobre la Gestión de Proyectos**: Se presenta teoría relacionada con la gestión de proyectos, incluyendo las metodologías que se han aplicado en este proyecto introductorio. [Ver el archivo](./documentation/Teoría%20sobre%20la%20Gestión.md)
 
 ## Repositorio GitHub
 
