@@ -47,8 +47,11 @@ Proceso SolucionEmpresaSoftware
 			Escribir 'Gracias '+duenioNegocio+', en breve GESOFT se comunicará con usted.'
 			otraSolicitud <- FALSO
 		FinSi
-		GESOFT_ImprimirTabla(solicitudesSoftware,contadorVueltas)
+		
 	FinMientras
+
+	GESOFT_ImprimirTabla(solicitudesSoftware,contadorVueltas)
+
 FinProceso
 
 SubAlgoritmo GESOFT_AdministrarSolicitud(solicitud)
