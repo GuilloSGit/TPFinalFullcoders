@@ -1,6 +1,6 @@
 # Trabajo Final - Solución de Software - GESOFT
 
-## Descripción del Proyecto de Práctica
+## Descripción del Proyecto
 
 El presente trabajo es una solución diseñada para una empresa que se dedica a la venta de software tanto a negocios como a usuarios finales. El objetivo principal de esta solución es simplificar y optimizar el proceso de solicitud y gestión de proyectos de software por parte de los clientes.
 
