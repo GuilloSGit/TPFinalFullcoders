@@ -12,7 +12,7 @@ El presente trabajo es una solución diseñada para una empresa que se dedica a 
 
 ## Funcionalidades Principales de la App
 
-El proyecto consta de las siguientes funcionalidades principales:
+El proyecto consta de las siguientes funcionalidades:
 
 1. **Captura de Datos del Negocio y Finalidad del Software**: El sistema permite a los clientes proporcionar información sobre su negocio y los requisitos específicos del software que necesitan. Esta información se recopila en una solicitud única.
 
