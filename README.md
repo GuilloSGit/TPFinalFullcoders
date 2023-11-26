@@ -10,7 +10,7 @@ El presente trabajo es una solución diseñada para una empresa que se dedica a 
 
 [Ver el archivo](./documentation/Selección%20del%20logo.md) Markdown que relata los pasos que se dieron para seleccionar el logotipo ideal que hoy define a la empresa.
 
-## Funcionalidades Principales de la App
+## Funcionalidades Principales
 
 El proyecto consta de las siguientes funcionalidades:
 
